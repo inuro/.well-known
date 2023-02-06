@@ -1,2 +1,2 @@
 # .well-known
-NIP5 authentication
+For NIP-05 verification
